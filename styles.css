@@ -9,7 +9,8 @@ body {
 
 .content-footer,
 .masthead-intro,
-.masthead-heading {
+.masthead-heading,
+ h2 {
            
   text-align: center;
 }
