@@ -1,0 +1,155 @@
+body {
+  /* Typography Declarations */
+  font-size: 1em;  
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: rgb(255,13,255);
+}
+ 
+
+
+.content-footer,
+.masthead-intro,
+.masthead-heading {
+           
+  text-align: center;
+}
+.masthead {
+  padding: 6em 0;
+  border-top: solid 1em #FFCF33;
+  background-image: url(http://i1378.photobucket.com/albums/ah96/zoeb2769/photo-1433650552684-d4004a945d6c_zps397kk3nj.jpeg);
+  background-size: cover;
+  background-repeat: no repeat; 
+  
+}
+
+
+.masthead-intro {
+  /*layout Declaration*/
+    margin-bottom: 0.1em;
+  /* Typography Decalarations */
+    font-family: "Gentium Book Basic",     Georgia, serif;
+    font-size: 2em;  
+  
+}
+.masthead-heading {
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 6em;
+  leter-spacing: -0.2em;
+  text-transform: uppercase;
+}
+
+.content-footer,
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2em;  
+}
+.social > li {
+  display:inline-block;
+}
+.introduction-section > p,
+.location-section > p,
+.content-footer > p {
+  /*Typography Decalarations */
+  font-weight:300;
+  letter-spacing: 0.05em;
+}
+.questions-section > h2 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    /* Layout */
+    margin: 2em 0 1em 0;
+}
+.questions-section h1 {
+  color: blue;
+}
+ 
+.questions-section p {
+  color:red;
+  text-shadow: 1px 1px 1px #000; 
+}
+
+
+.content-footer p {
+  color:white;
+  text-shadow: 1px 1px 1px #000; 
+}
+ @media only screen and  (max-width: 500px) {
+  .masthead-heading {
+        font-size: 3em;
+  }
+}
+    @media only screen and (max-width: 500px) {
+    .masthead {
+        padding: 3em 0;
+    }
+    .masthead-heading {
+        font-size: 3em;
+    }
+}
+    @media only screen and (max-width: 500px) {
+.footer {
+font-size:3em;
+  padding 1em 0;
+}
+}
+
+.first {
+  margin:10em;
+ display:inline;
+}
+.introduction-section {
+  text-align: center;
+  float: left;
+  margin-left: 5em;
+}
+.location-section {
+  text-align: center;
+  float: right;
+  margin-right: 5em;
+}
+.questions-section {
+  margin-top: 12em;
+  text-align:center;
+}
+.answers1 {
+  margin-top: 3em;
+  margin-right: 40px;
+ 
+  
+ }
+ .answers2 {
+  f
+  
+  
+ 
+}
+
+ .answers3 {
+  text-align: center;
+ }
+
+ .content-footer {
+  border-top: 7em;
+
+ }
+
+ .footer {
+  width: 30em;
+ }
+
+ .answers1 .answers2 .answers3 {
+  display:inline;
+ }
+
+ 
+
+.projects ul li {
+  display: inline-block;
+}
