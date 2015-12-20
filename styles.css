@@ -50,6 +50,16 @@ body {
     margin-right: auto;
     margin-top:2em;  
 }
+.snapshots {
+  display:inline-block;
+  width:70em;
+  height: 30em;
+  text-align: center;
+
+}
+.projects > li {
+  display:inline-block;
+}
 .social > li {
   display:inline-block;
 }
@@ -153,4 +163,5 @@ font-size:3em;
 
 .projects ul li {
   display: inline-block;
+
 }
