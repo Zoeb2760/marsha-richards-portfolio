@@ -1,11 +1,19 @@
 body {
   /* Typography Declarations */
   font-size: 1em;  
-  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  
   background-color: rgb(255,13,255);
   background-color: #add8e6;
+  
+  font-family: 'Droid Serif', serif;
+}
+h1 {
+  color: blue;
 }
  
+h2 {
+  font-size: 2em;
+}
 
 
 .content-footer,
@@ -30,16 +38,18 @@ body {
     margin-bottom: 0.1em;
   /* Typography Decalarations */
     font-family: "Gentium Book Basic",     Georgia, serif;
-    font-size: 2em;  
+    font-size: 2em;
+    color:blue;  
   
 }
 .masthead-heading {
     margin-top: -0.2em;
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: "Gentium Book Basic",     Georgia, serif;
   font-weight: bold;
-  font-size: 6em;
+  font-size: 3em;
   leter-spacing: -0.2em;
   text-transform: uppercase;
+  color: blue;
 }
 .first {
   background-color: white;
