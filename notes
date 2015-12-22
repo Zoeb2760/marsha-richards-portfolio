@@ -1,0 +1,23 @@
+width:70em;
+  height: 30em;
+
+
+
+   <div class = "first">
+      <section class= "introduction-section" >
+       <h1>Introduction</h1>
+      <p> I couldn't possible describe myself in two sentences.</p>
+         <p> That things have meaning </p></section>
+    <section class = "location-section">            <h1>Where I'm From ?</h1> 
+      <p> Planet Venus of course- Just kidding! </p></section>
+    </div>
+
+    <section class = "questions-section">
+      
+      <h1>More About Me</h1>
+      <div class = "answers1"> <h2>What are your favorite hobbies?</h2>
+      <p> Learning new things </p> </div>
+      <div class = "answers2"><h2> What is your dream job? </h2>
+   <p>Getting to use my best skills in a way that makes a difference</p> </div>
+      <div class = "answers3"><h2> What music are you listening to? </h2>
+        <p> Latin Music  93.1 </p></div>
